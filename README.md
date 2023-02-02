@@ -4,11 +4,11 @@
 </h1>
 
 <div align="center">
-<img src='https://user-images.githubusercontent.com/108163821/201408504-44247ed9-1d50-4671-98a2-fcab8b9f1919.png' width:700px>
+<img src='' width:700px>
 </div>
 
 <div align="center">
-<img src='https://user-images.githubusercontent.com/108163821/201410018-5da15ff3-e115-44dc-98bd-c8639a034635.png' width:700px>
+<img src='' width:700px>
 </div>
 
 
